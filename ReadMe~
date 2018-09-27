@@ -2,4 +2,8 @@ Welcome to My First Repo
 -------------------------------
 This repo is a practice repo to learn version control using git and Bitbucket.
 -------------------------------
-last modified now
+<<<<<<< HEAD
+last modified by userA
+=======
+last modified by userB
+>>>>>>> ed5c071749ad14345b9523878fbf4641dcf684e7
